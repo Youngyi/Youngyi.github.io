@@ -1,7 +1,7 @@
 # Site settings
 title: Believe Yourself and Love Everyone
 SEOTitle: 馒头白鱼博客 | BY YANGYi
-header-img: img/yyangcp.jpg
+header-img: img/hkust.jpg
 email: yyangcp@connect.ust.hk
 description: "Every failure is leading towards success."
 keyword: "BY, BY Blog, 杨溢的博客, yangyi, 杨溢, MachineLearning, DataAnalysis with BigData, Life"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/Youngyi/Youngyi.github.io" # you code repositor
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/yyangcp.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/WechatIMG639.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
