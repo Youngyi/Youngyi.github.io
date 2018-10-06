@@ -64,7 +64,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: a532f68fc956c1d115ac                            #生成的clientID
   clientSecret: 63396d26a2672e4ef6a52436d5141c0e349f5217    #生成的clientSecret
-  repo: Youngyi.github.io   #仓库名称
+  repo: issue   #仓库名称
   owner: Youngyi    #github用户名
   admin: Youngyi
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
@@ -100,7 +100,7 @@ service-worker: true
 friends: [
     {
         title: "MYy",
-        href: "https://www.jianshu.com/u/dee3e37915a4"
+        href: "https://www.weibo.com/yangyilovelife/home"
     },{
         title: "简书·BY",
         href: "https://www.jianshu.com/u/dee3e37915a4"
