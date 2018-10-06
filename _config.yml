@@ -1,10 +1,10 @@
 # Site settings
-title: 热爱生活 追求梦想
+title: Believe Yourself and Love Everyone
 SEOTitle: 馒头白鱼博客 | BY YANGYi
-header-img: img/post-bg-desk.jpg
+header-img: img/yyangcp.jpg
 email: yyangcp@connect.ust.hk
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 杨溢的博客, yangyi, 杨溢, iOS, Apple, iPhone"
+keyword: "BY, BY Blog, 杨溢的博客, yangyi, 杨溢, MachineLearning, DataAnalysis with BigData, Life"
 url: "http://Youngyi.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/Youngyi/Youngyi.github.io" # you code repository
@@ -12,18 +12,18 @@ github_repo: "https://github.com/Youngyi/Youngyi.github.io" # you code repositor
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/yyangcp.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
+weibo_username:     MYy_youngyi
+zhihu_username:     yangyi.james
 github_username:    Youngyi
-facebook_username:  Youngyi
-jianshu_username:   Youngyi
-#twitter_username:   qiubaiying
+facebook_username:  yangyi.james
+jianshu_username:   MYy_youngyi
+twitter_username:   yangyi.james
 
 
 
@@ -62,8 +62,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
+  clientID: a532f68fc956c1d115ac                            #生成的clientID
+  clientSecret: 63396d26a2672e4ef6a52436d5141c0e349f5217    #生成的clientSecret
   repo: Youngyi.github.io   #仓库名称
   owner: Youngyi    #github用户名
   admin: Youngyi
@@ -74,11 +74,11 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: b50bf2b12b5338a1845e33832976fd68
+ba_track_id: 08e88995dbdc90984736c044d5482551
 
 # Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+#ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
+#ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
@@ -99,16 +99,10 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "MYy",
+        href: "https://www.jianshu.com/u/dee3e37915a4"
     },{
         title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
-    },{
-        title: "Apple",
-        href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        href: "https://www.jianshu.com/u/dee3e37915a4"
     }
 ]
